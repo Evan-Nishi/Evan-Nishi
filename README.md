@@ -6,3 +6,5 @@ I'm a bay area based fullstack developer who is addicted to the thrill of creati
 * [portfolio](https://evannishi.me/)
 * [email](evan@evannishi.me)
 * [linkedin](https://www.linkedin.com/in/evan-nishi/)
+* [resume](https://evannishi.me/Evan-Nishi-Resume.pdf)
+* [calendy](https://calendly.com/evannishi)
