@@ -1,6 +1,6 @@
 # Hi I'm Evan :wave:
 
-Hey my name is Evan and I'm a student maker and tinkerer. I'm currently enrolled at San Jose State University studying Software Engineering and digital forensics.  I mainly focus on web, but also toy around with ctfs, low level programming, and hardware.
+Hey my name is Evan and I'm a student maker and tinkerer. I'm currently workign as a software engineer at eGain and recently graduated from SJSU with a degree in software engineering.  I mainly focus on web, but also toy around with ctfs, low level programming, and hardware.
 
 ## Where to find me:coffee:
 * [portfolio](https://evannishi.me/)
